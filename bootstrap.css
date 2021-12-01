@@ -1,0 +1,84 @@
+
+
+.main_card{
+    background-color: rgb(218, 81, 81);
+    height: 100vh;
+    width: auto;
+}
+.nav-item{
+    color: #fff;
+    font-size: 20px;
+}
+.nav-heading{
+    font-size: 30px;
+}
+.image{
+    margin-top:140px;
+    height: 50vh;
+    width: auto;
+    transform: rotate(20deg);
+}
+h1{
+    color: #fff;
+    font-size: 30px;
+    /* padding: 110px 20px; */
+    padding-top: 110px;
+    padding-right: 20px;
+    padding-left: 20px;
+
+    text-transform: uppercase;
+    
+}
+h2{
+    font-size: 30px;
+    text-transform: uppercase;
+}
+p{
+    color: rgb(85, 79, 79);
+    font-size: 20px;
+    padding-top: 10px;
+}
+.btn{
+   margin-left: 20px;
+   margin-top: 10px;
+}
+.btn:hover{
+    background-color: rgb(223, 207, 207);
+}
+.card_two{
+    padding: 200px 50px;
+}
+
+.image_dogs{
+    padding-top: 30px;
+    margin-left: 400px;
+    height: 400px;
+    width: 600px;
+    border-radius: 50px;
+
+   
+}
+.paragraph{
+    color: #fff;
+    text-align: center;
+    padding: 30px 35px;
+}
+.first_dog_img{
+    margin-top:50px;
+    margin-left: 50px;
+    height: 300px;
+    width: 400px;
+    border-radius: 50%;
+}
+.card_last{
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.footer{
+    background-color: rgb(218, 81, 81);
+    height: 200px;
+}
+.icon_footer{
+    padding-top: 30px;
+    padding-left: 550px;
+}
